@@ -46,7 +46,7 @@ function addScore() {
 // console.log("Audio is ready to play");
 // });
 const error = new Audio("/asset/Error.m4a");
-const succes = new Audio("/asset/succes.m4a");
+const succes = new Audio("https://drive.google.com/file/d/1BPlMUekyf0udQxcj8wbv25ZTAWoxNn4O/view?usp=drivesdk");
 const completed = new Audio("/asset/Alert.m4a");
 // audio.addEventListener('canplaythrough',()=>{
 //   console.log('can played')
