@@ -45,9 +45,9 @@ function addScore() {
 // // Audio is ready to play
 // console.log("Audio is ready to play");
 // });
-const error = new Audio("../asset/Error.m4a");
-const succes = new Audio("../asset/succes.m4a");
-const completed = new Audio("../asset/Alert.m4a");
+const error = new Audio("/asset/Error.m4a");
+const succes = new Audio("/asset/succes.m4a");
+const completed = new Audio("/asset/Alert.m4a");
 // audio.addEventListener('canplaythrough',()=>{
 //   console.log('can played')
 // })
